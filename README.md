@@ -1,3 +1,3 @@
 # monsters-rolodex-udemy
 
-Baby steps to learning React JS. 
+Code taken from ZTM React Course on Udemy.
